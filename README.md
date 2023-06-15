@@ -7,8 +7,6 @@
 <a href="https://leejinseop.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=&logoColor=white"/>
 </a>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jjjp9966)](https://solved.ac/jjjp9966)
 </div>
   
 <h2>💪 Skills</h2>
