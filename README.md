@@ -1,7 +1,7 @@
 <h2>About me</h2>
 <div align="left">
 🖐️ Hi there, I'm <b>LEEJINSEOP</b>.<br>
-<a href="https://www.notion.so/13809eb83f47473796e0a6cc5082cfdd" target="_blank">
+<a href="https://www.notion.so/leejinseop/500d3767ef774634ba76c88c834cfd69" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio(Notion)-006699?style=for-the-badge&logo=&logoColor=white"/>
 </a> 
 <a href="https://leejinseop.tistory.com" target="_blank">
