@@ -19,7 +19,5 @@
 <h2>🛠️ Tools</h2>
 <div align="left">
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=&logoColor=white">
-  <img src="https://img.shields.io/badge/GITLAB-FC6D26?style=for-the-badge&logo=&logoColor=white">
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=&logoColor=white">
 <div>
